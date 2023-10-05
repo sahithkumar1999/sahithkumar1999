@@ -7,11 +7,11 @@ Currently in the early stages of my learning journey, I am actively exploring th
 
 My areas of focus include:
 
-➤ Machine Learning Fundamentals: Understanding the core concepts of supervised and unsupervised learning, classification, regression, clustering, and dimensionality reduction.
-➤ Programming Languages: Python (NumPy, Pandas, Scikit-learn), R, SQL.
-➤ Data Manipulation and Visualization: Exploratory data analysis, data cleaning, and visualization using libraries such as Matplotlib and Seaborn.
-➤ Machine Learning Tools: Jupyter Notebook, Google Colab, TensorFlow, Keras.
-➤ Version Control: Git and GitHub.
+➤ Machine Learning Fundamentals: Understanding the core concepts of supervised and unsupervised learning, classification, regression, clustering, and dimensionality reduction.<br>
+➤ Programming Languages: Python (NumPy, Pandas, Scikit-learn), R, SQL.<br>
+➤ Data Manipulation and Visualization: Exploratory data analysis, data cleaning, and visualization using libraries such as Matplotlib and Seaborn.<br>
+➤ Machine Learning Tools: Jupyter Notebook, Google Colab, TensorFlow, Keras.<br>
+➤ Version Control: Git and GitHub.<br>
 
 I am a proactive learner with a growth mindset, constantly seeking opportunities to expand my knowledge and refine my skills. I am excited to collaborate with experienced professionals in the field, engaging in discussions and absorbing insights that contribute to my personal and professional development.
 
