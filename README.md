@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/C4E12AQGN-Bl3C4TVcQ/article-cover_image-shrink_600_2000/0/1591087233077?e=1701907200&v=beta&t=Jr1HI54OdW9clHi4b-bfj8dq6zViVdLGRi-vOOn0jg4)]
+![MasterHead](https://media.licdn.com/dms/image/C4E12AQGN-Bl3C4TVcQ/article-cover_image-shrink_600_2000/0/1591087233077?e=1701907200&v=beta&t=Jr1HI54OdW9clHi4b-bfj8dq6zViVdLGRi-vOOn0jg4)
 <h1 align="center">Hi 👋, I'm Sahith Kumar</h1>
 <h3 align="center">A passionate Machine Learning Engineer</h3>
 
