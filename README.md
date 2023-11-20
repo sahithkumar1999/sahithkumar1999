@@ -1,4 +1,3 @@
-![MasterHead](https://media.licdn.com/dms/image/C4E12AQGN-Bl3C4TVcQ/article-cover_image-shrink_600_2000/0/1591087233077?e=1701907200&v=beta&t=Jr1HI54OdW9clHi4b-bfj8dq6zViVdLGRi-vOOn0jg4)
 <h1 align="center">Hi 👋, I'm Sahith Kumar</h1>
 <h3 align="center">A passionate Machine Learning Engineer</h3>
 <h4 align="center">Welcome to my GITHUB profile! I am an enthusiastic individual passionate about pursuing a career in Machine Learning Engineering. With a strong desire to learn and grow in the field of data science, I am dedicated to acquiring the skills and knowledge necessary to make a meaningful impact.
